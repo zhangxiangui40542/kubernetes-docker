@@ -1,1 +1,1 @@
-# kubernetes-docker
+# kubernetes，etcd组件容器化
